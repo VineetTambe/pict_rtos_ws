@@ -1,6 +1,8 @@
 # pict_rtos_ws
+
 This repository is created for the PICT RTOS Workshop. Please fork this repository and push solutions of any assignments into your own fork.
 
+<<<<<<< HEAD
 The list of tasks for GIT
 1. To create a branch with your own name e.g. assignments/aditya in the master branch
 2. Create a sub branch in it 
@@ -14,3 +16,8 @@ The list of tasks for GIT
 10. Learn about detached HEAD state and how to operate from there
 11. learn how to move files from different origins like github to gitlab or viceversa
 12. what are sub-modules and what are they used for ?
+=======
+testing push commands on a branch
+
+checking a merge req
+>>>>>>> eb8ae84cb953409a96c9ec4795562b2e3dec037e
